@@ -13,7 +13,7 @@ def multiply(a, b):
     return a * b
 
 def sqrt(x):
-    return math.sqrt
+    return math.sqrt(x)
 
 if __name__ == "__main__":
     print("Простой калькулятор запущен.")
